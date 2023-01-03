@@ -38,8 +38,11 @@ namespace CompatibilityOnHover
                     }
                 }
 
+                code.RemoveAt(insertionIndex);
+
                 List<CodeInstruction> instructionsToInsert = new List<CodeInstruction>();
 
+                instructionsToInsert.Add(new CodeInstruction(OpCodes.Ldstr, "DragToReorderCOH"));
                 instructionsToInsert.Add(new CodeInstruction(OpCodes.Ldloc_2));
                 instructionsToInsert.Add(new CodeInstruction(OpCodes.Ldfld, AccessTools.Field(typeof(Verse.Pawn), nameof(Pawn.relations))));
                 instructionsToInsert.Add(new CodeInstruction(OpCodes.Ldarg_0));
@@ -56,8 +59,8 @@ namespace CompatibilityOnHover
 
                 if (insertionIndex != -1)
                 {
-                    code.RemoveAt(insertionIndex + 1);
-                    code.InsertRange(insertionIndex + 1, instructionsToInsert);
+                    code.RemoveAt(insertionIndex);
+                    code.InsertRange(insertionIndex, instructionsToInsert);
                 }
 
                 return code;
