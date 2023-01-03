@@ -1,0 +1,6 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\CompatibilityOnHover\1.4\Assemblies\CompatibilityOnHover.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\CompatibilityOnHover\1.4\Assemblies\CompatibilityOnHover.pdb
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\CompatibilityOnHover\Source\CompatibilityOnHover\CompatibilityOnHover\obj\Debug\CompatibilityOnHover.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\CompatibilityOnHover\Source\CompatibilityOnHover\CompatibilityOnHover\obj\Debug\CompatibilityOnHover.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\CompatibilityOnHover\Source\CompatibilityOnHover\CompatibilityOnHover\obj\Debug\CompatibilityOnHover.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\CompatibilityOnHover\Source\CompatibilityOnHover\CompatibilityOnHover\obj\Debug\CompatibilityOnHover.pdb

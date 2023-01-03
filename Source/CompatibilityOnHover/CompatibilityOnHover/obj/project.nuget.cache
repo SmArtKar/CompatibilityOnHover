@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "CEmZeN4/qB9O8V6hp5Fu/d7l2CxoaeSuw+Fo4yrYWzFOb6h1gaI2fmw0jXzL8q3cohmVd5J8NwNW7OQUx8u5YA==",
+  "success": true,
+  "projectFilePath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\CompatibilityOnHover\\Source\\CompatibilityOnHover\\CompatibilityOnHover\\CompatibilityOnHover.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Artemy\\.nuget\\packages\\krafs.publicizer\\2.1.0\\krafs.publicizer.2.1.0.nupkg.sha512",
+    "C:\\Users\\Artemy\\.nuget\\packages\\krafs.rimworld.ref\\1.4.3580\\krafs.rimworld.ref.1.4.3580.nupkg.sha512"
+  ],
+  "logs": []
+}
